@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cornix": {
+      "type": "http",
+      "url": "https://dashboard.cornix.io/app/mcp"
+    }
+  }
+}
